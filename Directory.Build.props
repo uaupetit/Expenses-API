@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);CS7022</NoWarn>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+  </PropertyGroup>
+</Project>
